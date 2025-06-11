@@ -1,0 +1,2 @@
+git pull this command using for in central repo any data add like if a new file add or exiting file modified 
+than we are going to using this command for get the data into local machine.
